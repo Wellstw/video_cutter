@@ -19,8 +19,8 @@ python -m pip install webrtcvad-wheels
 python -m pip install pysrt   
 python -m pip install click   
 
-ubuntu 請安裝 
-pip install webrtcvad   
+ubuntu 請安裝   
+pip install webrtcvad    
 pip install pysrt   
 pip install click   
 
@@ -40,7 +40,7 @@ ffmpeg_bin="C:\\portableApp\\ffmpeg\\bin\\ffmpeg.exe"
 input_video_file="E:\\testvideo\\IMG_1066.mov" 指定輸入檔
 
 #### TODO 
-1.你可以自己用click command line 執行當 或 pyqt 做一個簡單的UI
+1.你可以自己用click command line 及 pyinstaller 做成 執行檔 或 pyqt 做一個簡單的UI
 2.之後打算用 hmmlearn 實做一個比較複雜的識別器, 可以加強識別 不雅字及 環境雜音 例如,幹,啊,嗯,車子聲,關門聲,圾垃車聲,走路聲
 ~~~
 
